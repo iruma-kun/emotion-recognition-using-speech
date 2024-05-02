@@ -1,3 +1,4 @@
+# aiml froup project work
 from emotion_recognition import EmotionRecognizer
 
 import pyaudio
